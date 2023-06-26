@@ -1,0 +1,6 @@
+{
+    "domain": "hefeng-weather",
+    "name": "hefeng-weather",
+    "iot_class": "cloud_polling",
+    "version": "0.0.1"
+  }
