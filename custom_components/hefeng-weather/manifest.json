@@ -1,0 +1,11 @@
+{
+    "domain": "hefeng-weather",
+    "name": "hefeng-weather",
+    "iot_class": "cloud_polling",
+    "version": "0.0.1",
+    "config_flow": true,
+    "documentation": "https://github.com/shiqixixixi/hefeeng-weather",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": []
+  }
